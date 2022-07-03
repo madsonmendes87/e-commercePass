@@ -1,0 +1,79 @@
+.navbar {
+    justify-content: space-between;
+}
+
+span {
+    padding-right: 1rem;
+}
+
+.cidade {
+    padding: 0.5em;
+    width: 450px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+button {
+    padding: 0.5em;
+    width: 450px;
+    border: none;
+    border-radius: 10px;
+}
+.banner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.sectionContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bannerImg {
+    height: 330px;
+    padding: 14px;
+}
+
+#opcao {
+    padding: 0.5em;
+    width: 450px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+#diaa {
+    border-radius: 10px;
+}
+
+.example-card {
+    max-width: 300px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banners {
+    width: 400px;
+    height: 400px;
+}
+
+.icons {
+    width: 35px;
+    height: 35px;
+}
+
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
